@@ -1,0 +1,12 @@
+# Core
+flwr==1.6.0          # Flower federated learning framework
+scikit-learn         # Logistic Regression, preprocessing, metrics
+pandas               # Data handling
+numpy                # Numerical ops
+
+# Optional (if you use neural nets instead of logistic regression)
+torch                # PyTorch for deep learning models
+torchvision          # (only if you plan on images, not needed for heart dataset)
+
+# Optional (for privacy/noise)
+opacus               # Differential Privacy with PyTorch

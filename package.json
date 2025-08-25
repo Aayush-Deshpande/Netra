@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "framer-motion": "^12.23.12",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12"
+  },
+  "name": "kurukshetra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "hardhat": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
