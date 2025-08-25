@@ -10,15 +10,15 @@ path_to_artifact_string = r"E:\kurukshetra\hardhat-audit\artifacts\contracts\Aud
 
 # --- Accounts to register (from client.py) ---
 ganache_accounts_to_register = [
-    "0x93C77E9573a8b6a1a206E0Ded2cbF76832ac0B65",
-    "0x09C015194c1231dE307a3963Cdfe73B7cAAd9787",
     "0x4A9591B4c5E931C7fAc4A5ef58E55148963b685e",
+    "0xddbFE1B6D62F2AA5249Cf52607fCcc9764cB0A82",
+    "0xf0fd208E5e5258b71dFb4C88beB9e9caa654CBef",
 ]
 
 # --- Owner's account (the one that deployed the contract) ---
 # Replace with the actual owner's address and private key from Ganache
-OWNER_ACCOUNT_ADDRESS = "0x4A9591B4c5E931C7fAc4A5ef58E55148963b685e"  # <-- Paste the owner's address here
-OWNER_PRIVATE_KEY = "0x374fe1796dcfd59cef93214ac1bbc4d22e3d695945d9ca45d7d6bf9a216d63b3"      # <-- Paste the owner's private key here
+OWNER_ACCOUNT_ADDRESS = "0xE11c3cCa938EF41bc1a3cF1A78Dc4aDe6FbbdCF3"  # <-- Paste the owner's address here
+OWNER_PRIVATE_KEY = "0x65da7c9f00df230528b5007511ba3097805dbfdf3c2d1a7fcdd9e2472338bba0"      # <-- Paste the owner's private key here
 
 
 try:
